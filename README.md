@@ -1,4 +1,4 @@
-# Cactus_Aerial_Photos
+# Cactus_Aerial_Classification
 https://www.kaggle.com/irvingvasquez/cactus-aerial-photos
 
 ## For CS4487 Machine Learning Group Project
